@@ -370,6 +370,18 @@ button {
      display: flex;
      align-items: center;
      flex-wrap: wrap;
+
+}
+
+
+.d_prom {
+     display: flex;
+     align-items: center;
+     flex-wrap: wrap;
+     background-color: #ff283f;
+     color: #fff;
+
+
 }
 
 .read_more {
@@ -423,7 +435,7 @@ button {
 }
 
 .service_img {
-     padding-left: 30px;
+     padding-left: 20px;
 }
 
 .service_img figure {
@@ -489,7 +501,7 @@ button {
 }
 
 .our_work {
-     margin-bottom: 30px;
+     margin-bottom: 50px;
 }
 
 .our_work figure {
@@ -497,7 +509,7 @@ button {
 }
 
 .our_work figure img {
-     width: 100%;
+     width: 200%;
 }
 
 
